@@ -7,6 +7,7 @@ Para configurar el **Reindent** de Sublime Text:
 	{ "keys": ["super+alt+ctrl+r"], "command": "reindent"}
 ]
 ```
+![](https://lh3.googleusercontent.com/Dj_i8mPtcCz6vWaInwQ2nwuLhJHgpI3EBlNIUFoE8VnHL4wmN6avsq8GV3TaWZ25fs6q1fQWK9JV9yg=w1920-h895)
 - Cuando en el código existen comentarios, tiende a dañarse la identación, para ello hay que ir o crear la carpeta `Librería ▸ Application Support ▸ Sublime Text 3 ▸ Packages ▸ Default` y agregar un nuevo archivo con el nombre `Indentation Rules - Comments.tmPreferences`
 ```
 <?xml version="1.0" encoding="UTF-8"?>
